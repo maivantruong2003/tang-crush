@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Linh à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu anh <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Dạaaaaaaa <3',
-    messLink: 'http://m.me/thanhcao.pro999 ' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'Lớp 12C2 àaaaaa!',
+    introDesc: `Các bạn hãy đi đến cuối cùng nhé',
+    btnIntro: 'Okee',
+    title: 'Các bạn nghĩ sao khi trong lớp có một hacker kiêm lập trình viên như mìnhhhh',
+    desc: 'Cho mình biết suy nghĩ của các bạn đii🥰 ',
+    btnYes: 'Hơi thích'. <33',
+    btnNo: 'Cũng bình thường :3',
+    question:'Các bạn hãy có yêu mình khongg <3',
+    btnReply: 'Gửi cho mình <3',
+    reply: 'Yêu bạn <3',
+    mess: 'Mình biết mà 🥰. Yêu các bạn nhiều nhiều 😘😘',
+    messDesc: 'Chúc các bạn đậu tốt nghiệp hết nhé ❤, có gì muốn nói nó sẽ sang mess của mình nha.',
+    btnAccept: 'Okeee cảm ơn ❤ <3',
+    messLink: 'https://m.me/THESON2003.INFO ' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
